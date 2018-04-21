@@ -1,0 +1,26 @@
+{
+  "name": "first-repository",
+  "version": "1.0.0",
+  "description": "First",
+  "main": "example.js",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KochykAndrey/First-Repository.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KochykAndrey/First-Repository/issues"
+  },
+  "homepage": "https://github.com/KochykAndrey/First-Repository#readme"
+}
