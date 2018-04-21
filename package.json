@@ -17,6 +17,10 @@
     "type": "git",
     "url": "git+https://github.com/KochykAndrey/First-Repository.git"
   },
+  "engines": {
+    "node": "9.3.0"
+  },
+
   "author": "",
   "license": "ISC",
   "bugs": {

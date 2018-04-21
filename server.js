@@ -45,8 +45,8 @@ app.get('/get-goods/:phones/:price', function(req, res){
  });
 
 
-
-app.listen(3000);
+const ApplicationPort = process.env.PORT || 3000;
+app.listen(ApplicationPort);
 
 
 // beatify extension - html, js
